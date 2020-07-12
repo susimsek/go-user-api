@@ -1,5 +1,5 @@
 # Go User Api
-> This is user rest endpoint example using go language.
+This is user rest endpoint example using go language.
 
 <img src="https://github.com/susimsek/go-user-api/blob/master/images/golang-mysql.png" alt="Go Mysql User Api" width="50%" height="50%"/> 
 
